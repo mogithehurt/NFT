@@ -5,7 +5,7 @@ In this article, we will guide you through the procedure of creating your first 
 The XDC Network ($XDC) is an enterprise-ready, open-source, hybrid blockchain protocol specializing in tokenization for real-world decentralized finance.
 
 ## XDCPay
-DCPay is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run XDC dApps right in your browser without running a full XDC node. While doing transactions on the blockchain network, it uses computing power known as gas cost. To pay the gas cost, you will need a wallet that handles your money and that's where XDCPay comes in.
+XDCPay is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run XDC dApps right in your browser without running a full XDC node. While doing transactions on the blockchain network, it uses computing power known as gas cost. To pay the gas cost, you will need a wallet that handles your money and that's where XDCPay comes in.
 
 ## NFTs
 NFTs and digital collectibles are growing popular as the web3 space continues to make significant advancements in the blockchain arena. The enormous popularity of NFTs like Cryptokitties and Bored APE pushed investors to purchase ERC721-compatible digital collectibles.   
